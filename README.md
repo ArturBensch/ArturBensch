@@ -60,7 +60,7 @@
 
 <h2 align="left">🗺 Guia de Repositórios</h2>
 
-  - [Portfolio]: projetos de análise e ciências de dados desenvolvidos para o meu portfólio
+  - [Portfolio](https://github.com/ArturBensch/Portfolio): projetos de análise e ciências de dados desenvolvidos para o meu portfólio
   
   - [Cursos]:  Conteúdos que estudei ou que estou estudando
 
