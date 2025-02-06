@@ -16,14 +16,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a> 
   <a href="https://aws.amazon.com/pt/what-is/sql/" target="_blank" rel="noreferrer">
-  <img src="https://www.tshirtgeek.com.br/wp-content/uploads/2021/09/com037-scaled.jpg" alt="SQL" width="40" height="40"/>
+  <img src="https://banner2.cleanpng.com/20180611/pur/aa8kqzgh0.webp" alt="SQL" width="40" height="40"/>
   </a>
  <br><br>
 <!-- Bibliotecas -->
   <strong>🔹 Bibliotecas:</strong><br>
   
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="30" height="30"/>
     
   </a>
     <a href="https://numpy.org/" target="_blank" rel="noreferrer">
